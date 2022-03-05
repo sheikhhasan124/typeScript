@@ -84,4 +84,23 @@ x = 20; // correct
 x = "20"; // Not correct
 x = true; // Not correct
 x = [10, 20]; // Not correct
-```
+```  
+### 2. Environment setup
+
+#### 2.1 Install and use typescript
+
+- Text Editor: VS Code
+- Install node & typescript
+  ```js
+     npm intsall typescript --save-dev (local)
+     npm install -g typescript (global)
+     npx tsc fileName.ts
+  ```
+- check various versions:
+
+  ```js
+    node --version
+    npm --version
+    tsc
+    ```  
+    
