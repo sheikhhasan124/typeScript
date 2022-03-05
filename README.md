@@ -33,3 +33,11 @@ Chapters:
 10. typescript configuration
 11. Build tools
 12. convert js project to ts
+
+### 1. Introduction
+
+#### 1.1 What is TypeScript?
+
+- In a simple words, Types + JavaScript = TypeScript
+- It is a superset of JS
+- developed and maintained by Microsoft
